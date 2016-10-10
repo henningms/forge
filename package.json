@@ -40,9 +40,6 @@
     }
   ],
   "main": "js/forge.js",
-  "engines": {
-    "node": "*"
-  },
   "keywords": [
     "aes",
     "asn",
